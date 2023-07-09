@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.sectionTitle{
+    @apply text-3xl md:text-4xl lg:text-5xl text-center font-bold text-sky-400 my-8 md:my-10 lg:my-12
+}
+
+.customBtn{
+    @apply bg-blue-700 px-4 md:px-6 py-1 md:py-2 rounded-md font-semibold text-lg md:text-xl capitalize text-white my-4
+}

@@ -1,0 +1,134 @@
+.rakib {
+  top: 50%;
+  left: 50%;
+}
+.image {
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+.image-one {
+  top: 30%;
+  left: 50%;
+}
+.image-two {
+  top: 35%;
+  left: 60%;
+}
+.image-three {
+  top: 45%;
+  left: 65%;
+}
+.image-four {
+  top: 57%;
+  left: 65%;
+}
+.image-five {
+  top: 67%;
+  left: 60%;
+}
+.image-six {
+  top: 70%;
+  left: 50%;
+}
+.image-seven {
+  top: 67%;
+  left: 40%;
+}
+.image-eight {
+  top: 57%;
+  left: 35%;
+}
+.image-nine {
+  top: 45%;
+  left: 35%;
+}
+.image-ten {
+  top: 35%;
+  left: 40%;
+}
+
+@media (max-width: 576px) {
+  .image-one {
+  top: 28%;
+  left: 50%;
+}
+.image-two {
+  top: 33%;
+  left: 67%;
+}
+.image-three {
+  top: 47%;
+  left: 75%;
+}
+.image-four {
+  top: 60%;
+  left: 72%;
+}
+.image-five {
+  top: 70%;
+  left: 65%;
+}
+.image-six {
+  top: 72%;
+  left: 50%;
+}
+.image-seven {
+  top: 70%;
+  left: 35%;
+}
+.image-eight {
+  top: 60%;
+  left: 25%;
+}
+.image-nine {
+  top: 47%;
+  left: 25%;
+}
+.image-ten {
+  top: 33%;
+  left: 30%;
+}
+}
+
+@media (min-width:577px) and (max-width: 768px) {
+  .image-one {
+  top: 28%;
+  left: 50%;
+}
+.image-two {
+  top: 33%;
+  left: 67%;
+}
+.image-three {
+  top: 47%;
+  left: 75%;
+}
+.image-four {
+  top: 60%;
+  left: 72%;
+}
+.image-five {
+  top: 70%;
+  left: 65%;
+}
+.image-six {
+  top: 72%;
+  left: 50%;
+}
+.image-seven {
+  top: 70%;
+  left: 35%;
+}
+.image-eight {
+  top: 60%;
+  left: 25%;
+}
+.image-nine {
+  top: 47%;
+  left: 25%;
+}
+.image-ten {
+  top: 33%;
+  left: 30%;
+}
+}
